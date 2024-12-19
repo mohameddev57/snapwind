@@ -1,4 +1,4 @@
-مكتبة سنابوند مكتبة تعتمد علي سمات وايضا 
-تم دمج المكتبة ب بوتستراب و axios و مكتبات اخري
-
-version 1.0.0
+مكتبة snapwind مكتبة تعتمد علي attribute مكتبة تم دمجها بي بوتستراب و مكتبات اخري كثيرة
+رابط مكتبة بcdn كود جافا سكربت https://cdn.jsdelivr.net/gh/mohameddev57/snapwind@latest/Snapwind.js
+رابط مكتبة بcdn كود css
+https://cdn.jsdelivr.net/gh/mohameddev57/snapwind@latest/Snapwind.css
